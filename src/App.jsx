@@ -43,7 +43,7 @@ const TextEditor = () => {
 
   return (
     <div className="text-editor-container" >
-      <AppBar position="static" color="primary" style={{width: "170%"}}>
+      <AppBar position="static" color="primary" style={{width: "115%"}}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Advanced Text Editor
